@@ -1,0 +1,9 @@
+SMART FILE ANALYSIS REPORT
+==========================
+Total lines: 3
+Total words: 10
+Unique words: 7
+Blank lines: 0
+Total characters: 46
+Longest line: 18 characters
+Processing time: 0.016130 seconds
