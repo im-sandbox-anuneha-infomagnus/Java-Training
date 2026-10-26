@@ -1,0 +1,14 @@
+
+# Compiled Java files
+*.class
+
+# Build output
+out/
+target/
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated benchmark files
+sample-files/
