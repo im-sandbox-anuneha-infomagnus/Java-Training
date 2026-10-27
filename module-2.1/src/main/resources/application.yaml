@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: module-2.1
+  profiles:
+    active: prod
+app:
+  message: Welcome to Hona Smart Config!
+  name: Hona Smart Config
