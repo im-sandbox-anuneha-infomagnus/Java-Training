@@ -1,0 +1,11 @@
+# Maven generated files
+**/target/
+
+# Generated demo files
+**/demo-data/
+
+# Local IDE settings
+**/.vscode/
+
+# Compiled Java files
+*.class
